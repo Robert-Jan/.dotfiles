@@ -1,0 +1,2 @@
+PATH=/opt/nvim-linux64/bin:$PATH
+PATH=/usr/local/go/bin:$PATH

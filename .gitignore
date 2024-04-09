@@ -1,0 +1,3 @@
+bin/.local/bin
+neovim/neovim
+neovim/plugin/packer_compiled.lua
