@@ -36,6 +36,7 @@ brew install neofetch
 brew install neovim
 brew install node
 brew install go
+brew install lua
 
 brew install --cask alacritty
 
